@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-02T05:24:49Z" name="Default suite" finished-at="2023-05-02T05:25:10Z" duration-ms="20726">
+    <groups>
+    </groups>
+    <test started-at="2023-05-02T05:24:49Z" name="Default test" finished-at="2023-05-02T05:25:10Z" duration-ms="20726">
+      <class name="tasks.createCustomer">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:tasks.createCustomer@47987356]" started-at="2023-05-02T05:24:49Z" name="openBrowser" finished-at="2023-05-02T05:25:10Z" duration-ms="20708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="createcust()[pri:0, instance:tasks.createCustomer@47987356]" started-at="2023-05-02T05:25:10Z" name="createcust" finished-at="2023-05-02T05:25:10Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createcust -->
+      </class> <!-- tasks.createCustomer -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
